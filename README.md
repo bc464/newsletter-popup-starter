@@ -28,3 +28,4 @@ If you want more real-time communication, you can visit our community on [Slack]
 ### Fonts Used
 
 https://fonts.google.com/specimen/Work+Sans# newsletter-popup-starter
+![Screenshot 2022-01-07 at 13-28-01 Newsletter Popup Starter](https://user-images.githubusercontent.com/82536545/148537766-838245d7-c37d-4d33-91cd-6c73660dff5f.png)
